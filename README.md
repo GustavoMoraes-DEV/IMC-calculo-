@@ -11,6 +11,8 @@ Projeto desenvolvido em Python para calcular o Índice de Massa Corporal (IMC) a
 * Classificação do resultado.
 * Repetição do cálculo até o usuário decidir encerrar o programa.
 
+  ![imagem.imc](https://github.com/GustavoMoraes-DEV/IMC-calculo-/blob/main/imc.png)
+
 ## 📚 Conceitos Praticados
 
 * Variáveis.
